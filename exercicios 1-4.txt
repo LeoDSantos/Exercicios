@@ -1,0 +1,10 @@
+1- E uma linguagem em alto nível voltada para desenvolvedores que foi criada pela opengl, fragmentShaderSource e vertexShaderSource
+
+2-são basicamente os elementos base para construção de elementos maiores como nos foi passado em aula o triangulo que a partir dele pode-se gerar outros elementos como uma casa, exemplo de como armazenar vértices gl.glBegin(GL.GL_LINE_STRIP);
+        gl.glVertex2f(-8,-5); 
+
+3-VBO: são buffers que contêm atributos de vértice e dados de índice
+VAO: são os parâmetros de configuração de chamada do desenho
+EBO: e um buffer que armazena indicies do opengl
+
+4-
